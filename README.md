@@ -1,7 +1,7 @@
 # Llama3-Groq-Streamlit Chat Application
-
-## Project Overview
 This project showcases a chat application built with Streamlit that integrates Llama3 models via the Groq platform. It's designed to offer speedy real-time AI-driven chat functionalities, making the most of Llama3's capabilities within an interactive web interface.
+
+https://github.com/Op27/llama3-groq-streamlit/assets/39921621/288d5390-9c7e-4840-b898-3579bcf58c4a
 
 ## Features
 - **Llama3 Integration**: Leverages the Llama3 and other major models, such as Mixtral and Gemma, to provide intelligent and context-aware responses.
